@@ -1,0 +1,416 @@
+{
+ "python": {
+  "name": "Python",
+  "category": "Programming",
+  "aliases": [
+   "py",
+   "python3"
+  ]
+ },
+ "java": {
+  "name": "Java",
+  "category": "Programming",
+  "aliases": []
+ },
+ "c++": {
+  "name": "C++",
+  "category": "Programming",
+  "aliases": [
+   "cpp",
+   "c plus plus"
+  ]
+ },
+ "javascript": {
+  "name": "JavaScript",
+  "category": "Programming",
+  "aliases": [
+   "js",
+   "ecmascript",
+   "es6"
+  ]
+ },
+ "typescript": {
+  "name": "TypeScript",
+  "category": "Programming",
+  "aliases": [
+   "ts"
+  ]
+ },
+ "data structures": {
+  "name": "Data Structures & Algorithms",
+  "category": "CS Core",
+  "aliases": [
+   "dsa",
+   "algorithms",
+   "data structures and algorithms"
+  ]
+ },
+ "oop": {
+  "name": "OOP",
+  "category": "CS Core",
+  "aliases": [
+   "object oriented programming",
+   "object-oriented programming",
+   "object oriented design"
+  ]
+ },
+ "system design": {
+  "name": "System Design",
+  "category": "CS Core",
+  "aliases": [
+   "software architecture",
+   "scalable systems"
+  ]
+ },
+ "sql": {
+  "name": "SQL",
+  "category": "Data",
+  "aliases": [
+   "mysql",
+   "postgresql",
+   "postgres",
+   "sqlite",
+   "t-sql",
+   "pl/sql"
+  ]
+ },
+ "excel": {
+  "name": "Excel",
+  "category": "Data",
+  "aliases": [
+   "ms excel",
+   "microsoft excel",
+   "spreadsheets",
+   "advanced excel"
+  ]
+ },
+ "power bi": {
+  "name": "Power BI",
+  "category": "Data",
+  "aliases": [
+   "powerbi",
+   "power-bi"
+  ]
+ },
+ "tableau": {
+  "name": "Tableau",
+  "category": "Data",
+  "aliases": []
+ },
+ "pandas": {
+  "name": "Pandas",
+  "category": "Data",
+  "aliases": []
+ },
+ "numpy": {
+  "name": "NumPy",
+  "category": "Data",
+  "aliases": []
+ },
+ "statistics": {
+  "name": "Statistics",
+  "category": "Data",
+  "aliases": [
+   "statistical analysis",
+   "hypothesis testing",
+   "probability"
+  ]
+ },
+ "data visualization": {
+  "name": "Data Visualization",
+  "category": "Data",
+  "aliases": [
+   "data visualisation",
+   "dashboards",
+   "dashboard development",
+   "data viz"
+  ]
+ },
+ "data cleaning": {
+  "name": "Data Cleaning",
+  "category": "Data",
+  "aliases": [
+   "data wrangling",
+   "data preprocessing",
+   "data preparation"
+  ]
+ },
+ "etl": {
+  "name": "ETL",
+  "category": "Data",
+  "aliases": [
+   "data pipelines",
+   "data pipeline",
+   "elt"
+  ]
+ },
+ "mongodb": {
+  "name": "MongoDB",
+  "category": "Data",
+  "aliases": [
+   "nosql"
+  ]
+ },
+ "machine learning": {
+  "name": "Machine Learning",
+  "category": "AI/ML",
+  "aliases": [
+   "ml",
+   "predictive modeling",
+   "predictive modelling"
+  ]
+ },
+ "deep learning": {
+  "name": "Deep Learning",
+  "category": "AI/ML",
+  "aliases": [
+   "neural networks",
+   "cnn",
+   "rnn"
+  ]
+ },
+ "scikit-learn": {
+  "name": "Scikit-learn",
+  "category": "AI/ML",
+  "aliases": [
+   "sklearn",
+   "scikit learn"
+  ]
+ },
+ "tensorflow": {
+  "name": "TensorFlow",
+  "category": "AI/ML",
+  "aliases": [
+   "keras"
+  ]
+ },
+ "pytorch": {
+  "name": "PyTorch",
+  "category": "AI/ML",
+  "aliases": []
+ },
+ "nlp": {
+  "name": "NLP",
+  "category": "AI/ML",
+  "aliases": [
+   "natural language processing"
+  ]
+ },
+ "html": {
+  "name": "HTML",
+  "category": "Web",
+  "aliases": [
+   "html5"
+  ]
+ },
+ "css": {
+  "name": "CSS",
+  "category": "Web",
+  "aliases": [
+   "css3",
+   "tailwind",
+   "tailwind css",
+   "sass"
+  ]
+ },
+ "react": {
+  "name": "React",
+  "category": "Web",
+  "aliases": [
+   "react.js",
+   "reactjs",
+   "react js"
+  ]
+ },
+ "node.js": {
+  "name": "Node.js",
+  "category": "Web",
+  "aliases": [
+   "nodejs",
+   "node js",
+   "express",
+   "express.js"
+  ]
+ },
+ "rest api": {
+  "name": "REST APIs",
+  "category": "Web",
+  "aliases": [
+   "restful api",
+   "restful apis",
+   "rest apis",
+   "api development",
+   "apis",
+   "web services"
+  ]
+ },
+ "fastapi": {
+  "name": "FastAPI",
+  "category": "Web",
+  "aliases": []
+ },
+ "django": {
+  "name": "Django",
+  "category": "Web",
+  "aliases": []
+ },
+ "flask": {
+  "name": "Flask",
+  "category": "Web",
+  "aliases": []
+ },
+ "aws": {
+  "name": "AWS",
+  "category": "Cloud & DevOps",
+  "aliases": [
+   "amazon web services",
+   "ec2",
+   "s3"
+  ]
+ },
+ "azure": {
+  "name": "Azure",
+  "category": "Cloud & DevOps",
+  "aliases": [
+   "microsoft azure"
+  ]
+ },
+ "gcp": {
+  "name": "GCP",
+  "category": "Cloud & DevOps",
+  "aliases": [
+   "google cloud",
+   "google cloud platform"
+  ]
+ },
+ "docker": {
+  "name": "Docker",
+  "category": "Cloud & DevOps",
+  "aliases": [
+   "containers",
+   "containerization",
+   "containerisation"
+  ]
+ },
+ "kubernetes": {
+  "name": "Kubernetes",
+  "category": "Cloud & DevOps",
+  "aliases": [
+   "k8s"
+  ]
+ },
+ "linux": {
+  "name": "Linux",
+  "category": "Cloud & DevOps",
+  "aliases": [
+   "unix",
+   "ubuntu"
+  ]
+ },
+ "ci/cd": {
+  "name": "CI/CD",
+  "category": "Cloud & DevOps",
+  "aliases": [
+   "cicd",
+   "continuous integration",
+   "continuous delivery",
+   "github actions",
+   "jenkins"
+  ]
+ },
+ "git": {
+  "name": "Git",
+  "category": "Cloud & DevOps",
+  "aliases": [
+   "github",
+   "version control",
+   "gitlab"
+  ]
+ },
+ "terraform": {
+  "name": "Terraform",
+  "category": "Cloud & DevOps",
+  "aliases": [
+   "infrastructure as code",
+   "iac"
+  ]
+ },
+ "networking": {
+  "name": "Networking",
+  "category": "Cloud & DevOps",
+  "aliases": [
+   "tcp/ip",
+   "computer networks",
+   "dns"
+  ]
+ },
+ "shell scripting": {
+  "name": "Shell Scripting",
+  "category": "Cloud & DevOps",
+  "aliases": [
+   "bash",
+   "bash scripting"
+  ]
+ },
+ "figma": {
+  "name": "Figma",
+  "category": "Design",
+  "aliases": [
+   "adobe xd",
+   "sketch"
+  ]
+ },
+ "wireframing": {
+  "name": "Wireframing & Prototyping",
+  "category": "Design",
+  "aliases": [
+   "wireframes",
+   "prototyping",
+   "prototypes"
+  ]
+ },
+ "user research": {
+  "name": "User Research",
+  "category": "Design",
+  "aliases": [
+   "ux research",
+   "user interviews",
+   "user testing"
+  ]
+ },
+ "usability testing": {
+  "name": "Usability Testing",
+  "category": "Design",
+  "aliases": [
+   "usability studies",
+   "a/b testing"
+  ]
+ },
+ "ui design": {
+  "name": "UI Design",
+  "category": "Design",
+  "aliases": [
+   "visual design",
+   "interface design",
+   "ui/ux design"
+  ]
+ },
+ "design systems": {
+  "name": "Design Systems",
+  "category": "Design",
+  "aliases": [
+   "component libraries",
+   "style guides"
+  ]
+ },
+ "communication": {
+  "name": "Communication",
+  "category": "Professional",
+  "aliases": [
+   "communication skills",
+   "stakeholder management",
+   "presentation skills",
+   "storytelling"
+  ]
+ }
+}

@@ -1,0 +1,237 @@
+{
+ "_note": "Seed data: salary ranges are illustrative entry-level INR LPA estimates. Replace with figures from real postings.",
+ "careers": [
+  {
+   "id": "backend",
+   "title": "Backend Developer",
+   "description": "Builds APIs, databases and server logic.",
+   "tags": [
+    "backend",
+    "software"
+   ],
+   "salary_lpa": [
+    4,
+    10
+   ],
+   "skills": {
+    "python": 2,
+    "java": 2,
+    "sql": 3,
+    "rest api": 3,
+    "git": 2,
+    "data structures": 3,
+    "oop": 2,
+    "docker": 2,
+    "django": 1,
+    "fastapi": 1,
+    "linux": 1,
+    "system design": 1,
+    "c++": 1
+   }
+  },
+  {
+   "id": "frontend",
+   "title": "Frontend Developer",
+   "description": "Builds responsive, interactive web interfaces.",
+   "tags": [
+    "frontend",
+    "web",
+    "software"
+   ],
+   "salary_lpa": [
+    3.5,
+    9
+   ],
+   "skills": {
+    "html": 3,
+    "css": 3,
+    "javascript": 3,
+    "react": 3,
+    "typescript": 2,
+    "git": 2,
+    "rest api": 2,
+    "figma": 1,
+    "ui design": 1
+   }
+  },
+  {
+   "id": "fullstack",
+   "title": "Full-Stack Developer",
+   "description": "Owns both the interface and the server side of web apps.",
+   "tags": [
+    "web",
+    "backend",
+    "frontend",
+    "software"
+   ],
+   "salary_lpa": [
+    4,
+    10
+   ],
+   "skills": {
+    "javascript": 3,
+    "react": 3,
+    "node.js": 3,
+    "sql": 2,
+    "rest api": 3,
+    "html": 2,
+    "css": 2,
+    "git": 2,
+    "mongodb": 1,
+    "docker": 1,
+    "typescript": 1
+   }
+  },
+  {
+   "id": "data-analyst",
+   "title": "Data Analyst",
+   "description": "Turns raw data into insight with queries and dashboards.",
+   "tags": [
+    "data",
+    "analytics"
+   ],
+   "salary_lpa": [
+    3.5,
+    8
+   ],
+   "skills": {
+    "sql": 3,
+    "excel": 3,
+    "python": 2,
+    "power bi": 2,
+    "tableau": 2,
+    "data visualization": 3,
+    "statistics": 2,
+    "pandas": 2,
+    "data cleaning": 2,
+    "communication": 1
+   }
+  },
+  {
+   "id": "bi-developer",
+   "title": "SQL / BI Developer",
+   "description": "Designs data models, ETL jobs and reporting layers.",
+   "tags": [
+    "data",
+    "analytics"
+   ],
+   "salary_lpa": [
+    4,
+    9
+   ],
+   "skills": {
+    "sql": 3,
+    "power bi": 3,
+    "etl": 3,
+    "excel": 2,
+    "data visualization": 2,
+    "tableau": 1,
+    "data cleaning": 2,
+    "python": 1,
+    "communication": 1
+   }
+  },
+  {
+   "id": "ml-engineer",
+   "title": "Machine Learning Engineer",
+   "description": "Builds and ships predictive models.",
+   "tags": [
+    "ai",
+    "data"
+   ],
+   "salary_lpa": [
+    5,
+    14
+   ],
+   "skills": {
+    "python": 3,
+    "machine learning": 3,
+    "statistics": 3,
+    "numpy": 2,
+    "pandas": 2,
+    "scikit-learn": 3,
+    "deep learning": 2,
+    "tensorflow": 2,
+    "pytorch": 2,
+    "sql": 1,
+    "git": 1,
+    "nlp": 1,
+    "docker": 1
+   }
+  },
+  {
+   "id": "cloud",
+   "title": "Cloud Engineer",
+   "description": "Designs and operates cloud infrastructure.",
+   "tags": [
+    "cloud",
+    "devops"
+   ],
+   "salary_lpa": [
+    4.5,
+    11
+   ],
+   "skills": {
+    "aws": 3,
+    "linux": 3,
+    "networking": 2,
+    "docker": 2,
+    "kubernetes": 2,
+    "terraform": 1,
+    "ci/cd": 2,
+    "python": 1,
+    "git": 2,
+    "azure": 1,
+    "gcp": 1
+   }
+  },
+  {
+   "id": "devops",
+   "title": "DevOps Engineer",
+   "description": "Automates build, deploy and monitoring pipelines.",
+   "tags": [
+    "devops",
+    "cloud"
+   ],
+   "salary_lpa": [
+    4.5,
+    11
+   ],
+   "skills": {
+    "linux": 3,
+    "docker": 3,
+    "ci/cd": 3,
+    "kubernetes": 2,
+    "git": 3,
+    "aws": 2,
+    "terraform": 2,
+    "python": 1,
+    "networking": 1,
+    "shell scripting": 2
+   }
+  },
+  {
+   "id": "uiux",
+   "title": "UI/UX Designer",
+   "description": "Researches users and designs usable interfaces.",
+   "tags": [
+    "design"
+   ],
+   "salary_lpa": [
+    3,
+    9
+   ],
+   "skills": {
+    "figma": 3,
+    "wireframing": 3,
+    "user research": 3,
+    "ui design": 3,
+    "usability testing": 2,
+    "design systems": 1,
+    "html": 1,
+    "css": 1,
+    "communication": 2
+   }
+  }
+ ]
+}
